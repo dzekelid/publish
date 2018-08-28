@@ -9,11 +9,22 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Publish
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/azure-automation/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AutomationManagementClient - Runbook Draft Publish
+  x-api-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftpublish-post
+  description: Publish runbook draft.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-automation-save-time.png
+  humanURL: https://azure.microsoft.com/en-us/services/automation/
+  baseURL: ://management.azure.com//
+  tags: Microsoft, Orchestration, Automation, Webhooks, Stack Network, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftpublish-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://azure.application.insights.api.gallery.streamdata.io

@@ -7,11 +7,27 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/193-eventb
 x-kinRank: "9"
 x-alexaRank: "643"
 tags: Publish
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/eventbrite/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Eventbrite - Post Events Publish
+  x-api-slug: eventsidpublish-post
+  description: |-
+    Publishes an event if it has not already been deleted. In order for publish to be permitted, the event must have all
+    necessary information, including a name and description, an organizer, at least one ticket, and valid payment options.
+    This API endpoint will return argument errors for event fields that fail to validate the publish requirements. Returns
+    a boolean indicating success or failure of the publish.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/193-eventbrite.jpg
+  humanURL: http://eventbriteapi.com
+  baseURL: https://www.eventbrite.com//%7Bdata-type%7D/
+  tags: Events, Tickets, Events, My API Stack, API LIfeyclessss, Stack Network, Stack,
+    Marketplace, Technology, Mobile, internet, API Provider, Tickets, Profiles, Registrations,
+    General Data, Relative Data, Pedestal, Historical Data API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/eventbrite/eventsidpublish-post-openapi.md
 - name: Eventbrite - Post Series Publish
   x-api-slug: seriesidpublish-post
   description: |-

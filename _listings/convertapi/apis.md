@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/357-conver
 x-kinRank: "8"
 x-alexaRank: "717909"
 tags: Publish
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/convertapi/apis.md
 specificationVersion: "0.14"
 apis:
@@ -68,6 +68,34 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/convertapi/publisher2pdf-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/convertapi/publisher2pdf-post-openapi.md
+- name: Convert API - Publisher to PDF
+  x-api-slug: publisher2pdf-post
+  description: The API for converting Publisher documents to PDF files and Images.
+    These file formats pub can be converted to pdf, pdfa, png, jpg, tif.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/357-convertapi.jpg
+  humanURL: http://www.convertapi.com/
+  baseURL: https://do.convertapi.com//
+  tags: Documents, File Conversion, File Conversion, Document Conversion, Stack Network,
+    SaaS, Technology, API Provider, Profiles, Images, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/convertapi/publisher2pdf-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/convertapi/publisher2pdf-post-openapi.md
+- name: Convert API - Publisher to Image
+  x-api-slug: publisher2image-post
+  description: The API for converting Publisher documents to PDF files and Images.
+    These file formats pub can be converted to png, jpg, tif.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/357-convertapi.jpg
+  humanURL: http://www.convertapi.com/
+  baseURL: https://do.convertapi.com//
+  tags: Documents, File Conversion, File Conversion, Document Conversion, Stack Network,
+    SaaS, Technology, API Provider, Profiles, Images, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/convertapi/publisher2image-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/convertapi/publisher2image-post-openapi.md
 x-common:
 - type: x-documentation
   url: http://www.convertapi.com/api/web-pdf-api

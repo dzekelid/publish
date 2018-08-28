@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28379-www-
 x-kinRank: "7"
 x-alexaRank: "1315889"
 tags: Publish
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/technowize/apis.md
 specificationVersion: "0.14"
 apis: []

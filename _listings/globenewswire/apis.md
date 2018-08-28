@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28285-glob
 x-kinRank: "7"
 x-alexaRank: "17030"
 tags: Publish
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/globenewswire/apis.md
 specificationVersion: "0.14"
 apis: []

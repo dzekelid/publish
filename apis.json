@@ -1,0 +1,2123 @@
+{
+	"name": "Streadata.io API Gallery - Publish",
+	"description": "This is a repository of publish APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/publish.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://publish.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "ProgrammableWeb",
+			"x-api-slug": "programmableweb",
+			"description": "The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web???s most relied-on API Directory",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/96-programmableweb.jpg",
+			"humanURL": "http://www.programmableweb.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/programmableweb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TechCrunch",
+			"x-api-slug": "techcrunch",
+			"description": "We cover the pulse of the tech industry. Home to Disrupt, TC Sessions, and the world renowned Startup Battlefield competition.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/127-techcrunch.jpg",
+			"humanURL": "http://techcrunch.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/techcrunch/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ReadWrite",
+			"x-api-slug": "readwrite",
+			"description": "ReadWrite delivers on this mission by connecting and engaging with our audience by delivering content that lives at the intersection of the entrepreneurial and enterprise worlds. This is where the next great wave of products and services will be create...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/129-readwrite.jpg",
+			"humanURL": "http://readwrite.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/readwrite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The NextWeb",
+			"x-api-slug": "the-nextweb",
+			"description": "Original and proudly opinionated perspectives on remarkable stories for Generation T",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/131-the-nextweb.jpg",
+			"humanURL": "https://thenextweb.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/the-nextweb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Huffington Post Tech",
+			"x-api-slug": "huffington-post-tech",
+			"description": "Read the latest headlines, news stories, and opinion from Politics, Entertainment, Life, Perspectives, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/132-huffington-post-tech.jpg",
+			"humanURL": "http://www.huffingtonpost.com/tech/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/huffington-post-tech/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The Verge",
+			"x-api-slug": "the-verge",
+			"description": "The Verge was founded in 2011 in partnership with Vox Media, and covers the intersection of technology, science, art, and culture. Its mission is to offer in-depth reporting and long-form feature stories, breaking news coverage, product information, an...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/133-the-verge.jpg",
+			"humanURL": "http://www.theverge.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/the-verge/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NPR",
+			"x-api-slug": "npr",
+			"description": "NPR delivers breaking national and world news. Also top stories from business, politics, health, science, technology, music, arts and culture. Subscribe to podcasts and RSS feeds.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/141-npr.jpg",
+			"humanURL": "http://npr.org",
+			"baseURL": "https://api.npr.org//",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/npr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Box",
+			"x-api-slug": "box",
+			"description": "Box is changing how you manage content across your business from simple file sharing to building custom apps.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/162-box.jpg",
+			"humanURL": "http://box.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/box/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BreweryDB",
+			"x-api-slug": "brewerydb",
+			"description": "An open library of breweries and beers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/164-brewerydb.jpg",
+			"humanURL": "http://www.brewerydb.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/brewerydb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ESPN",
+			"x-api-slug": "espn",
+			"description": "Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/191-espn.jpg",
+			"humanURL": "http://developer.espn.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/espn/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Eventbrite",
+			"x-api-slug": "eventbrite",
+			"description": "Eventbrite brings people together through live experiences. Discover events that match your passions, or create your own with online ticketing tools.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/193-eventbrite.jpg",
+			"humanURL": "http://eventbriteapi.com",
+			"baseURL": "https://www.eventbrite.com//%7Bdata-type%7D/",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/eventbrite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lulu",
+			"x-api-slug": "lulu",
+			"description": "Lulu is creating a new model in publishing that empowers more creators to sell more content to more readers more profitably than ever before. Through our open publishing platform, we are helping creators make works available in multiple formats and markets and improving discovery so buyers can more easily find the content they need. Since our founding in 2002, 1.1 million creators from more than 200 countries and territories have signed up with us. And each month, we add approximately 20,000 titles to our catalog.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/223-lulu-api.jpg",
+			"humanURL": "http://lulu.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/lulu/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Los Angeles Times",
+			"x-api-slug": "los-angeles-times",
+			"description": "The LA Times is a leading source of breaking news, entertainment, sports, politics, and more for Southern California and the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/230-los-angeles-times.jpg",
+			"humanURL": "http://wsj.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/los-angeles-times/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pearson plc",
+			"x-api-slug": "pearson-plc",
+			"description": "Offering educational products and services, assessment, and professional development for all stages of learning. Learn more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/238-pearson-plc.jpg",
+			"humanURL": "https://developer.pearson.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/pearson-plc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Readability",
+			"x-api-slug": "readability",
+			"description": "Readability is a free/pay reading platform that delivers a great reading experience and provides a model where your reading activity can directly compensate publishers and writers. Readability started off as a simple, Javascript-based reading tool that turned any web page into a customizable reading view. It was released by Arc90 (as an Arc90 Lab experiment), a New York City based design and technology shop, back in early 2009.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/readability.jpg",
+			"humanURL": "http://www.readability.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/readability/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "moo.com",
+			"x-api-slug": "moo-com",
+			"description": "Design and print customized Business Cards with MOO! Print a different image on each business card - upload your own design, logo, text and photos online. | MOO (United States)",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/259-moo-com.jpg",
+			"humanURL": "http://us.moo.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/moo-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Twitter",
+			"x-api-slug": "twitter",
+			"description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twitter-logo.png",
+			"humanURL": "https://twitter.com/",
+			"baseURL": "https://api.twitter.com//1.1",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/twitter/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "U.S. Energy Information Administration",
+			"x-api-slug": "u-s--energy-information-administration",
+			"description": "The U.S. Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/269-u-s--energy-information-administration.jpg",
+			"humanURL": "http://www.eia.gov",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/u-s--energy-information-administration/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xignite",
+			"x-api-slug": "xignite",
+			"description": "Financial market data on-demand. Xignite financial Web services help build smarter websites and applications in minutes with zero up-front investment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png",
+			"humanURL": "http://www.xignite.com",
+			"baseURL": "https://www.xignite.com/xVWAP.json/XigniteVWAP",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/xignite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "7digital",
+			"x-api-slug": "7digital",
+			"description": "Welcome to 7digital!    Choose from over 30 million high quality tracks in our store; download, sync and play your music on the go.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/294-7digital.jpg",
+			"humanURL": "http://7digital.com",
+			"baseURL": "https://api.7digital.com/1.2/",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/7digital/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ConvertAPI",
+			"x-api-slug": "convertapi",
+			"description": "Create PDF easily with our developers API/SDK for Ruby Java .NET C# PHP Shell Delphi.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/357-convertapi.jpg",
+			"humanURL": "http://www.convertapi.com/",
+			"baseURL": "https://do.convertapi.com//",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/convertapi/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "EzineArticles",
+			"x-api-slug": "ezinearticles",
+			"description": "EzineArticles.com is 400,000+ Expert Authors who share their best quality, original articles with our 30+ million monthly visitors. Our platform allows users to get exposure & traffic back to their website in exchange for the submission of their short,...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/402-ezinearticles.jpg",
+			"humanURL": "http://ezinearticles.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/ezinearticles/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Feedbooks",
+			"x-api-slug": "feedbooks",
+			"description": "Discover thousands of eBooks, including new releases and the best collection of free public domain books, that you can read on any mobile device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/403-feedbooks.jpg",
+			"humanURL": "http://www.feedbooks.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/feedbooks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Gigulate",
+			"x-api-slug": "gigulate",
+			"description": "Music News, Blogs & Concert Listings, sorted.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/412-gigulate.jpg",
+			"humanURL": "http://gigulate.com/api/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/gigulate/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Goodreads",
+			"x-api-slug": "goodreads",
+			"description": "Goodreads is a world&rsquo;s largest site for book readers and recommendations. As of December 2011, Goodreads has more than 6,700,000 members who have added more than 230,000,000 books to their shelves. A home for casual readers and bona-fide bookworms alike, Goodreads users recommend books, compare what they are reading, keep track of what they&rsquo;ve read and would like to read, find their next favorite book, form book clubs and much more. Goodreads was launched in January 2007.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/415-goodreads.jpg",
+			"humanURL": "http://www.goodreads.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/goodreads/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Issuu",
+			"x-api-slug": "issuu",
+			"description": "Millions of readers find and share the magazines, catalogs and publications they love on issuu.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/428-issuu.jpg",
+			"humanURL": "http://issuu.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/issuu/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "VideoBloom",
+			"x-api-slug": "videobloom",
+			"description": "Connect, tell, sell and share your stories and products with the power of socially smart video solutions from VideoBloom.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/518-videobloom,-inc-.jpg",
+			"humanURL": "http://www.videobloom.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/videobloom/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Yelp",
+			"x-api-slug": "yelp",
+			"description": "User Reviews and Recommendations of Best Restaurants, Shopping, Nightlife, Food, Entertainment, Things to Do, Services and More at Yelp",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/536-yelp.jpg",
+			"humanURL": "http://yelp.com/engineering",
+			"baseURL": "https://api.yelp.com//v3",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/yelp/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "EveryBlock",
+			"x-api-slug": "everyblock",
+			"description": "EveryBlock is the leading Web site for neighborhood discussions and block-level news, including the latest news stories, crime reports, real estate listings and business reviews.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/589-everyblock.jpg",
+			"humanURL": "http://www.everyblock.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/everyblock/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SFGATE",
+			"x-api-slug": "sfgate",
+			"description": "SFGATE: Local news & information, updated weather, traffic, entertainment, celebrity news, sports scores and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/614-sfgate.jpg",
+			"humanURL": "http://usatoday.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/sfgate/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cambridge",
+			"x-api-slug": "cambridge",
+			"description": "Cambridge University Press advances learning, knowledge and research worldwide",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/724-cambridge.jpg",
+			"humanURL": "http://cambridge.org",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/cambridge/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Instructure",
+			"x-api-slug": "instructure",
+			"description": "Instructure makes software that makes smarter people. Products include Canvas LMS, Bridge and Canvas Network.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/820-instructure.jpg",
+			"humanURL": "http://instructure.com",
+			"baseURL": "https://canvas.instructure.com//api/v1",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/instructure/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SAMHSA",
+			"x-api-slug": "samhsa",
+			"description": "The Substance Abuse and Mental Health Services Administration (SAMHSA) is the agency within the U.S. Department of Health and Human Services that leads public health efforts to advance the behavioral health of the nation.    SAMHSA provides leadership ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/917-samhsa.jpg",
+			"humanURL": "http://info.samhsa.gov",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/samhsa/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ScienceBase",
+			"x-api-slug": "sciencebase",
+			"description": "http://usgs.gov  The USGS serves the Nation by providing reliable scientific information to describe and understand the Earth; minimize loss of life and property from nature.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/920-sciencebase.jpg",
+			"humanURL": "https://my.usgs.gov/confluence/display/sciencebase/ScienceBase/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/sciencebase/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SharedBook",
+			"x-api-slug": "sharedbook",
+			"description": "SharedBook provides secure mobile delivery of workbooks, manuals, reports, and other content for trainers, management consultants, publishers, and associations.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/928-sharedbook.jpg",
+			"humanURL": "http://www.sharedbook.com/dev/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/sharedbook/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Weather Underground",
+			"x-api-slug": "weather-underground",
+			"description": "Weather Underground provides local & long range weather forecasts, weather reports, maps & tropical weather conditions for locations worldwide.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/966-weather-underground.jpg",
+			"humanURL": "http://www.wunderground.com",
+			"baseURL": "https://api.wunderground.com//api/",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/weather-underground/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CityGrid Media",
+			"x-api-slug": "citygrid-media",
+			"description": "Leading Local Online Media Company",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/997-citygrid-media.jpg",
+			"humanURL": "http://docs.citygridmedia.com/display/citygridv2/CityGrid+APIs",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/citygrid-media/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Getty Images",
+			"x-api-slug": "getty-images",
+			"description": "Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1013-getty-images.jpg",
+			"humanURL": "http://www.gettyimages.com/",
+			"baseURL": "https://api.gettyimages.com//",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/getty-images/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MyGarden.org",
+			"x-api-slug": "mygarden-org",
+			"description": "Manage your garden online, receive specific information for your garden and share your knowledge with others.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1029-mygarden-org.jpg",
+			"humanURL": "http://www.mygarden.org",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/mygarden-org/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TIME",
+			"x-api-slug": "time",
+			"description": "Breaking news and analysis from TIME.com. Politics, world news, photos, video, tech reviews, health, science and entertainment news.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1031-time.jpg",
+			"humanURL": "http://time.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/time/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HostBill",
+			"x-api-slug": "hostbill",
+			"description": "Hosting, Cloud/IaaS/VPS Solutions Providers, Domain name and SSL Resellers around the globe use HostBill to automate & manage their online businesses",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1070-hostbill.jpg",
+			"humanURL": "http://hostbillapp.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/hostbill/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pocket",
+			"x-api-slug": "pocket",
+			"description": "When you find something you want to view later, put it in Pocket.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1114-pocket.jpg",
+			"humanURL": "http://getpocket.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/pocket/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "pontiflex",
+			"x-api-slug": "pontiflex",
+			"description": "Our concierge-style service connects brands with the right audiences. We work with clients to deliver scale, transparency, and quality campaign optimization.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1116-pontiflex.jpg",
+			"humanURL": "http://www.pontiflex.com/platform/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/pontiflex/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OverDrive Libraries",
+			"x-api-slug": "overdrive-libraries",
+			"description": "Borrow eBooks, audiobooks and videos from thousands of public libraries worldwide.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1351-overdrive-libraries.jpg",
+			"humanURL": "https://overdrive.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/overdrive-libraries/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Regator",
+			"x-api-slug": "regator",
+			"description": "Regator is a selective blog directory and search engine. Its the easiest way to find, share, and read quality posts from hand-selected blogs in over 500 topics.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1357-regator-semantic.jpg",
+			"humanURL": "http://platform.regator.com/api/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/regator/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Washington Post White House Visitors",
+			"x-api-slug": "washington-post-white-house-visitors",
+			"description": "Breaking news and analysis on politics, business, world national news, entertainment more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1370-washington-post-white-house-visitors.jpg",
+			"humanURL": "http://developer.washingtonpost.com/api/visitors_log",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/washington-post-white-house-visitors/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ProPublica",
+			"x-api-slug": "propublica",
+			"description": "A Pulitzer-winning, non-profit newsroom focused on investigative journalism in the public interest. We are independent and funded largely through donations. For more information, please see: http://www.propublica.org/about",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1466-propublica.jpg",
+			"humanURL": "http://projects.propublica.org/forensics/api",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/propublica/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Punkrock.org",
+			"x-api-slug": "punkrock-org",
+			"description": "A Community of Punk Rock Bands, Punk News, Punk Music Videos, Articles, Blogs, Photos and More...",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "http://punkrock.org",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/punkrock-org/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TheBeerSpot",
+			"x-api-slug": "thebeerspot",
+			"description": "A distinctive website with a focus on all aspects of beer. Our goal is to provide a fun atmosphere for all things related to beer and provide you with the tools to know more about beer. This is a place where enthusiasts of all kinds, homebrewers, the a...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1486-thebeerspot.jpg",
+			"humanURL": "http://www.thebeerspot.com/api",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/thebeerspot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Tout",
+			"x-api-slug": "tout",
+			"description": "Online Video Network Delivering News, Sports, and Entertainment Video to Over 25MM Viewers Per Month.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1491-tout.jpg",
+			"humanURL": "http://www.tout.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/tout/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Gracenote",
+			"x-api-slug": "gracenote",
+			"description": "Gracenote is the leader in entertainment metadata, helping people connect to the music, TV shows, movies and sports they love across the worlds most popular entertainment platforms and devices, from Apple to Amazon to Comcast and Ford.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1537-gracenote.jpg",
+			"humanURL": "https://gracenote.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/gracenote/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Instapaper",
+			"x-api-slug": "instapaper",
+			"description": "A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1698-instapaper.jpg",
+			"humanURL": "http://www.instapaper.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/instapaper/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Public Insight Network",
+			"x-api-slug": "public-insight-network",
+			"description": "Read more about us from Current magazine: http://www.current.org/news/news1102publicinsight.html",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1823-publicinsight.jpg",
+			"humanURL": "http://www.publicinsightnetwork.org/api-documentation/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/public-insight-network/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Elsevier ScienceDirect",
+			"x-api-slug": "elsevier-sciencedirect",
+			"description": "Elsevier is a global information analytics business that helps institutions and professionals progress science, advance healthcare and improve performance.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2011-elsevier-sciencedirect.jpg",
+			"humanURL": "http://www.elsevier.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/elsevier-sciencedirect/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TV Media TV Listings",
+			"x-api-slug": "tv-media-tv-listings",
+			"description": "We are North Americas television listings company! Follow us for exciting news about products and services.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2165-tv-media-tv-listings.jpg",
+			"humanURL": "http://tvmedia.ca",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/tv-media-tv-listings/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cloudspeakers",
+			"x-api-slug": "cloudspeakers",
+			"description": "new music curated by music experts",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2195-cloudspeakers.jpg",
+			"humanURL": "http://apidoc.cloudspeakers.com/home",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/cloudspeakers/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Business Insider",
+			"x-api-slug": "business-insider",
+			"description": "Business Insider is a fast-growing business site with deep financial, media, tech, and other industry verticals. Launched in 2007, the site is now the largest business news site on the web.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2639-business-insider.jpg",
+			"humanURL": "http://www.businessinsider.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/business-insider/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Digital First Media",
+			"x-api-slug": "digital-first-media",
+			"description": "As our name implies, Digital First Media is out to transform the local news business.     We are a management company overseeing more than 800 multi-platform local news products across 18 states, making us the second-largest newspaper company in the U....",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2648-digital-first-media.jpg",
+			"humanURL": "http://www.digitalfirstmedia.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/digital-first-media/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Disney Post",
+			"x-api-slug": "disney-post",
+			"description": "The mission of the Walt Disney Company is to be one of the worlds leading producers and providers of entertainment and information.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2692-disney-post.jpg",
+			"humanURL": "http://thewaltdisneycompany.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/disney-post/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bookshare API",
+			"x-api-slug": "bookshare-api",
+			"description": "Bookshare is an initiative of Benetech, a nonprofit organization that combines the power of the human mind with a deep passion for social improvement. It addresses the needs of underserved communities with innovative technology solutions.    Bookshare...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3480-bookshare-api.jpg",
+			"humanURL": "http://bookshare.org/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/bookshare-api/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Hearst",
+			"x-api-slug": "hearst",
+			"description": "Hearst is one of the largest diversified media and information companies. www.hearst.com",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9076-hearst-developers.jpg",
+			"humanURL": "http://developer.hearst.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/hearst/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NewsWhip",
+			"x-api-slug": "newswhip",
+			"description": "Understand what social media content resonates with audiences. Centralize your social media monitoring and analytics to discover whats driving engagement.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11443-newswhip.jpg",
+			"humanURL": "https://www.newswhip.com/",
+			"baseURL": "https://api.newswhip.com/v1/",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/newswhip/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IBM Watson",
+			"x-api-slug": "ibm-watson",
+			"description": "Meet IBM Watson, a cognitive system that enables a new partnership between people and computers that enhances and scales human expertise. Watson has been learning the language of professions and is trained by experts to work across many different industries.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ibm-watson-logo.png",
+			"humanURL": "https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/",
+			"baseURL": "https://ibm-watson-ml.mybluemix.net/v3/",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/ibm-watson/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bitcoin Magazine",
+			"x-api-slug": "bitcoin-magazine",
+			"description": "Founded in 2011, Bitcoin Magazine is the oldest and most trusted source of news, insight, reviews, guides, and price analysis on bitcoin, ethereum, blockchain technology, cryptocurrencies, the darkweb, and other decentralized technologies.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11761-bitcoin-magazine.jpg",
+			"humanURL": "http://bitpay.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/bitcoin-magazine/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "First Look Media",
+			"x-api-slug": "first-look-media",
+			"description": "A bold, independent spirit defines everything we do at First Look Media ??? from journalism that holds the powerful accountable, to arts & entertainment that shapes our culture.  Launched by eBay founder and philanthropist Pierre Omidyar, First Look Medi...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18721-the-intercept.jpg",
+			"humanURL": "https://firstlook.org/theintercept/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/first-look-media/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Houghton Mifflin Harcourt",
+			"x-api-slug": "houghton-mifflin-harcourt",
+			"description": "Houghton Mifflin Harcourts (HMH) Developer Portal is an HMH Labs initiative to expose the HMH APIs to others, including customers and third party developers. This creates an exciting opportunity for developers to build solutions that are compatible with those that our customers already know and trust. Initially, the APIs will connect with a sandbox environment and, down the road, with the rich and diverse world of Houghton Mifflin Harcourts offerings. Ultimately, our goal is to provide greater opportunities for interoperability and a seamless user experience for teachers, students and parents.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hmh_logo_detail.gif",
+			"humanURL": "http://www.hmhco.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/houghton-mifflin-harcourt/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The New York Times",
+			"x-api-slug": "the-new-york-times",
+			"description": "The New York Times: Find breaking news, multimedia, reviews & opinion on Washington, business, sports, movies, travel, books, jobs, education, real estate, cars & more at nytimes.com.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18820-new-york-times.jpg",
+			"humanURL": "http://nytimes.com",
+			"baseURL": "https://api.nytimes.com//svc",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/the-new-york-times/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bloomberg",
+			"x-api-slug": "bloomberg",
+			"description": "Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18926-bloomberg.jpg",
+			"humanURL": "http://www.reuters.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/bloomberg/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HarperCollins Publishers",
+			"x-api-slug": "harpercollins-publishers",
+			"description": "HarperCollins Publishers is one of the worlds leading English-language publishers. Headquartered in New York, the company is a subsidiary of News Corporation. The house of Mark Twain, the Bront? sisters, Thackeray, Dickens, John F. Kennedy, Martin Luther King Jr., Maurice Sendak, Shel Silverstein, and Margaret Wise Brown, HarperCollins was founded in New York City in 1817. ?Today, HarperCollins is a broad-based publisher with strengths in literary and commercial fiction, business books, childrens books, cookbooks, and mystery, romance, reference, religious, and spiritual books. Consistently at the forefront of innovation and technological advancement, HarperCollins is the first publisher to digitize its content and create a global digital warehouse to protect the rights of its authors, meet consumer demand, and generate additional business opportunities.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Harper-Collins-Company-Logo.jpg",
+			"humanURL": "http://harpercollins.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/harpercollins-publishers/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The Hill",
+			"x-api-slug": "the-hill",
+			"description": "The Hill is a top US political website, read by the White House and more lawmakers than any other site -- vital for policy, politics and election campaigns.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19975-the-hill.jpg",
+			"humanURL": "http://thehill.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/the-hill/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The Economist",
+			"x-api-slug": "the-economist",
+			"description": "The Economist offers authoritative insight and opinion on international news, politics, business, finance, science, technology and the connections between them.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20030-the-economist.jpg",
+			"humanURL": "http://www.economist.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/the-economist/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Thomson Reuters",
+			"x-api-slug": "thomson-reuters",
+			"description": "The intelligence, technology and human expertise you need to find trusted answers. Thomson Reuters is The Answer Company.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20120-blog-financial-thomsonreuters-com.jpg",
+			"humanURL": "http://thomsonreuters.com/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/thomson-reuters/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "engadget.com",
+			"x-api-slug": "engadget-com",
+			"description": "Engadget is the original home for technology news and reviews. Since its founding in 2004, weve grown from an exhaustive source for consumer tech news to a global multimedia organization covering the intersection of technology, gaming and entertainment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20636-engadget-com.jpg",
+			"humanURL": "http://engadget.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/engadget-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Gizmodo",
+			"x-api-slug": "gizmodo",
+			"description": "Gizmodo (/zmodo/ giz-MOH-doh) is a design, technology, science and science fiction website that also features articles on politics. It was originally launched as part of the Gawker Media network run by Nick Denton, and runs on the Kinja platform. Gizmodo also includes the subsite io9, which focuses on science fiction and futurism.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20676-gizmodo-com.jpg",
+			"humanURL": "http://gizmodo.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/gizmodo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "sitepoint.com",
+			"x-api-slug": "sitepoint-com",
+			"description": "Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20716-sitepoint-com.jpg",
+			"humanURL": "http://sitepoint.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/sitepoint-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "mashable.com",
+			"x-api-slug": "mashable-com",
+			"description": "Mashable is a global, multi-platform media and entertainment company.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20726-mashable-com.jpg",
+			"humanURL": "http://mashable.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/mashable-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "JAXenter.com",
+			"x-api-slug": "jaxenter-com",
+			"description": "News, articles and tutorials from the IT and programming world  JAXenter tracks the latest trends in Java as well as the hottest tools, databases, big data and cloud solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20837-jaxenter-com.jpg",
+			"humanURL": "http://jaxenter.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/jaxenter-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Barchart",
+			"x-api-slug": "barchart",
+			"description": "Barchart.com is the leading provider of intraday stock and commodities real-time or delayed charts with powerful indicators and technical analysis.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21632-www-barchart-com.jpg",
+			"humanURL": "https://www.barchart.com",
+			"baseURL": "https://marketdata.websol.barchart.com//",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/barchart/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS CloudWatch",
+			"x-api-slug": "aws-cloudwatch",
+			"description": "Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, set alarms, and automatically react to changes in your AWS resources. Amazon CloudWatch can monitor AWS resources such as Amazon EC2 instances, Amazon DynamoDB tables, and Amazon RDS DB instances, as well as custom metrics generated by your applications and services, and any log files your applications generate. You can use Amazon CloudWatch to gain system-wide visibility into resource utilization, application performance, and operational health. You can use these insights to react and keep your application running smoothly.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png",
+			"humanURL": "https://aws.amazon.com/cloudwatch/",
+			"baseURL": ":///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/aws-cloudwatch/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Lambda",
+			"x-api-slug": "aws-lambda",
+			"description": "AWS Lambda is a zero-administration compute platform for back-end web developers that runs your code for you in the AWScloudand provides you with a fine-grained pricing structure. AWS Lambda runs your back-end code on its own AWS compute fleet of Amazon Elastic Compute Cloud (Amazon EC2) instances across multiple Availability Zones in a region, which provides the high availability, security, performance, and scalability of the AWS infrastructure.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSLambda.png",
+			"humanURL": "http://docs.aws.amazon.com/lambda/",
+			"baseURL": ":///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/aws-lambda/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Cognito",
+			"x-api-slug": "aws-cognito",
+			"description": "Amazon Cognito lets you easily add user sign-up and sign-in to your mobile and web apps. With Amazon Cognito, you also have the options to authenticate users through social identity providers such as Facebook, Twitter, or Amazon, with SAML identity solutions, or by using your own identity system. In addition, Amazon Cognito enables you to save data locally on users devices, allowing your applications to work even when the devices are offline. You can then synchronize data across users devices so that their app experience remains consistent regardless of the device they use. With Amazon Cognito, you can focus on creating great app experiences instead of worrying about building, securing, and scaling a solution to handle user management, authentication, and sync across devices.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-cognito.png",
+			"humanURL": "https://aws.amazon.com/cognito/",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/aws-cognito/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Simple Notification Service",
+			"x-api-slug": "aws-simple-notification-service",
+			"description": "Amazon Simple Notification Service (Amazon SNS) is a fast, flexible, fully managed push notification service that lets you send individual messages or to fan-out messages to large numbers of recipients. Amazon SNS makes it simple and cost effective to send push notifications to mobile device users, email recipients or even send messages to other distributed services.With Amazon SNS, you can send notifications to Apple, Google, Fire OS, and Windows devices, as well as to Android devices in China with Baidu Cloud Push. You can use SNS to send SMS messages to mobile device users worldwide.Beyond these endpoints, Amazon SNS can also deliver messages toAmazon Simple Queue Service(SQS),AWS Lambda functions, or to any HTTP endpoint.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png",
+			"humanURL": "https://aws.amazon.com/sns/",
+			"baseURL": ":///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/aws-simple-notification-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Tag Manager",
+			"x-api-slug": "google-tag-manager",
+			"description": "Deploy and update measurement tags on your websites and mobile apps without major code changes and app releases. Use Google Tag Manager to manage tags (such as tracking and marketing optimization JavaScript tags) on your site. Without editing your site code, you use GTM user interface to add and update AdWords, Google Analytics, Floodlight, and non-Google tags. This reduces errors and allows you to to deploy tags on your site quickly.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/googl_tag_manager_gplus-250.png",
+			"humanURL": "https://developers.google.com/tag-manager/",
+			"baseURL": "://www.googleapis.com//tagmanager/v1",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/google-tag-manager/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure Automation",
+			"x-api-slug": "azure-automation",
+			"description": "Automate all of those frequent, time-consuming, and error-prone cloud management tasks. Azure Automation helps you focus on work that adds business value. By reducing errors and boosting efficiency, it also helps to lower your operational costs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-automation-save-time.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/automation/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/azure-automation/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "News API",
+			"x-api-slug": "news-api",
+			"description": "Get live article metadata from a range of sources including BBC News, TechCrunch, Huffington Post and more with our free News API.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-news-api.jpg",
+			"humanURL": "https://newsapi.org",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/news-api/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dataminr",
+			"x-api-slug": "dataminr",
+			"description": "Dataminr senses critical events as they happen and alerts professionals in news, finance, public sector, corporate security, and communications faster than traditional sources.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28244-www-dataminr-com.jpg",
+			"humanURL": "https://www.dataminr.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/dataminr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AccuWeather",
+			"x-api-slug": "accuweather",
+			"description": "Weather forecast, local to international. World class weather radar plus your up to the minute weather report and current conditions",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28270-developer-accuweather-com.jpg",
+			"humanURL": "https://developer.accuweather.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/accuweather/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Financial Times",
+			"x-api-slug": "financial-times",
+			"description": "News, analysis and comment from the Financial Times, the worlds leading global business publication",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28284-developer-ft-com.jpg",
+			"humanURL": "https://ft.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/financial-times/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GlobeNewswire",
+			"x-api-slug": "globenewswire",
+			"description": "Providing you with GlobeNewswire product updates & support. Follow @MyCorpSolutions for insight on PR and corporate communications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28285-globenewswire.jpg",
+			"humanURL": "http://wsj.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/globenewswire/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TheStreet",
+			"x-api-slug": "thestreet",
+			"description": "Follow the stock market today on TheStreet. Get business news that moves markets, award-winning stock analysis, market data and stock trading ideas.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28337-www-thestreet-com.jpg",
+			"humanURL": "https://www.thestreet.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/thestreet/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TechAcute",
+			"x-api-slug": "techacute",
+			"description": "Online magazine with news and stories about technology, gaming, enterprise and innovation in the connected reality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28378-techacute-com.jpg",
+			"humanURL": "http://techacute.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/techacute/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Technowize",
+			"x-api-slug": "technowize",
+			"description": "Technowize Magazine is one of the most premier media brands in the world. We are an innovative, digitally oriented magazine with a unique editorial vision.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28379-www-technowize-com.jpg",
+			"humanURL": "https://www.technowize.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/technowize/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CNET",
+			"x-api-slug": "cnet",
+			"description": "CNET is the worlds leader in tech product reviews, news, prices, videos, forums, how-tos and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28380-www-cnet-com.jpg",
+			"humanURL": "https://www.cnet.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/cnet/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TLISTS",
+			"x-api-slug": "tlists",
+			"description": "TLISTS is a real-time media company.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28381-tlists-com.jpg",
+			"humanURL": "http://tlists.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/tlists/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "https://www.techwalls.com",
+			"x-api-slug": "httpswww-techwalls-com",
+			"description": "TechWalls is the technology blog sharing prominent news in the industry. Our content is updated with breaking news, gadget, smartphone reviews and guides.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28386-www-techwalls-com.jpg",
+			"humanURL": "https://www.techwalls.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/httpswww-techwalls-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TechAtLast",
+			"x-api-slug": "techatlast",
+			"description": "TechAtLast is #1 Africas gateway to the world of blockchain technology and science discoveries, business news and events reporting. We cover in-depth reporting on disruptive technologies and solutions such as blockchain technologies.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28389-techatlast-com.jpg",
+			"humanURL": "https://techatlast.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/techatlast/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TechTricksWorld",
+			"x-api-slug": "techtricksworld",
+			"description": "TechTricksWorld is a blog that shares the information about technology, Tips, tricks Blogging, Online Money Making, and other tech stuff.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28390-www-techtricksworld-com.jpg",
+			"humanURL": "https://www.techtricksworld.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/techtricksworld/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Inspirationfeed",
+			"x-api-slug": "inspirationfeed",
+			"description": "Inspirationfeed provides useful information about design, inspiration,tips,icons,fonts, wordpress, tutorials, and other web related topics. Our goal is to inform our readers about the latest trending topics on the web.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28391-inspirationfeed-com.jpg",
+			"humanURL": "http://inspirationfeed.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/inspirationfeed/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TechSling",
+			"x-api-slug": "techsling",
+			"description": "TechSling Weblog is a leading online source of digital news, information and resources.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28392-www-techsling-com.jpg",
+			"humanURL": "https://www.techsling.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/techsling/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Techatitude",
+			"x-api-slug": "techatitude",
+			"description": "A blog on Tech Tips, Online Tools and Software, Blogging, Mobile World, Tech News and Social Media",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28394-techattitude-com.jpg",
+			"humanURL": "http://techattitude.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/techatitude/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Entertainment Express",
+			"x-api-slug": "entertainment-express",
+			"description": "Internet Video Archive (IVA) is a leading entertainment data company providing metadata, images and trailers/clips, for movie and TV content. With the launch of its award-winning Entertainment Express APIs, clients can easily access everything they need to create engaging content discovery experiences. By using Entertainment Express, clients can also connect to other services like movie showtimes and ticketing, content recommendations, content availability and TV channel line-ups. With over a million titles, episodes and over 150,000 videos available, IVA makes it easy for developers to integrate all the services they need at a very affordable price.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IVA-logo.png",
+			"humanURL": "https://www.internetvideoarchive.com/",
+			"baseURL": "https://ee.iva-api.com//",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/entertainment-express/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rite Kit",
+			"x-api-slug": "rite-kit",
+			"description": "",
+			"image": "",
+			"humanURL": "http://ritekit.com",
+			"baseURL": "https://api.ritekit.com//",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/rite-kit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BBC",
+			"x-api-slug": "bbc",
+			"description": "Breaking news, sport, TV, radio and a whole lot more. The BBC informs, educates and entertains - wherever you are, whatever your age.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28554-bbc-nitro.jpg",
+			"humanURL": "http://www.bbc.com/",
+			"baseURL": "https://programmes.api.bbc.com//nitro/api",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/bbc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cision",
+			"x-api-slug": "cision",
+			"description": "From engaging influencers and sharing news to comprehensive media and analytics, Cision  provides an all-in-one solution to help you build awareness, earn publicity and measure results.    Cision monitors millions of social conversations per day on Twi...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28679-cision.jpg",
+			"humanURL": "http://24-7pressrelease.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/cision/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "eReleases",
+			"x-api-slug": "ereleases",
+			"description": "Press release distribution to over 100,000 journalists who want it! Measurable results with hundreds of testimonials to prove it. PR Newswire partner.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28680-ereleases.jpg",
+			"humanURL": "http://ereleases.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/ereleases/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MarketWatch",
+			"x-api-slug": "marketwatch",
+			"description": "MarketWatch provides the latest stock market, financial and business news. Get stock market quotes, personal finance advice, company news and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28681-marketwatch.jpg",
+			"humanURL": "http://prsa.org",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/marketwatch/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Issuu",
+			"x-api-slug": "issuu",
+			"description": "Millions of readers find and share the magazines, catalogs and publications they love on issuu.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28686-developer-issuu-com.jpg",
+			"humanURL": "https://developer.issuu.com",
+			"baseURL": "https:///",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/issuu/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Akeneo",
+			"x-api-slug": "akeneo",
+			"description": "Our team has been working in the e-commerce industry for over 10 years. As we were helping brands to grow their online businesses, we realized that they were all struggling with complex or archaic systems to manage product information. We founded Akeneo in 2013 with the idea that products are the most important assets in a company and that many merchants lack a tool to help them manage and leverage this crucial asset. Merchants needed a tool that was designed for marketers and flexible enough to be integrated with any third-party application.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png",
+			"humanURL": "https://akeneo.com",
+			"baseURL": "https://example.com//api",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Kentico Cloud",
+			"x-api-slug": "kentico-cloud",
+			"description": "Kentico Cloud is the #1 CMS that enables digital teams to collaborate quickly to create engaging personalized experiences across any device. Free 30-day trial!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg",
+			"humanURL": "https://kenticocloud.com/",
+			"baseURL": "https://deliver.kenticocloud.com//",
+			"tags": "Publish",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/kentico-cloud/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Publish",
+	"include": [
+		{
+			"name": "ProgrammableWeb",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/programmableweb/apis.yaml"
+		},
+		{
+			"name": "TechCrunch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/techcrunch/apis.yaml"
+		},
+		{
+			"name": "ReadWrite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/readwrite/apis.yaml"
+		},
+		{
+			"name": "The NextWeb",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/the-nextweb/apis.yaml"
+		},
+		{
+			"name": "Huffington Post Tech",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/huffington-post-tech/apis.yaml"
+		},
+		{
+			"name": "The Verge",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/the-verge/apis.yaml"
+		},
+		{
+			"name": "NPR",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/npr/apis.yaml"
+		},
+		{
+			"name": "Box",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/box/apis.yaml"
+		},
+		{
+			"name": "BreweryDB",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/brewerydb/apis.yaml"
+		},
+		{
+			"name": "ESPN",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/espn/apis.yaml"
+		},
+		{
+			"name": "Eventbrite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/eventbrite/apis.yaml"
+		},
+		{
+			"name": "Lulu",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/lulu/apis.yaml"
+		},
+		{
+			"name": "Los Angeles Times",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/los-angeles-times/apis.yaml"
+		},
+		{
+			"name": "Pearson plc",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/pearson-plc/apis.yaml"
+		},
+		{
+			"name": "Readability",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/readability/apis.yaml"
+		},
+		{
+			"name": "moo.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/moo-com/apis.yaml"
+		},
+		{
+			"name": "Twitter",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/twitter/apis.yaml"
+		},
+		{
+			"name": "U.S. Energy Information Administration",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/u-s--energy-information-administration/apis.yaml"
+		},
+		{
+			"name": "Xignite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/xignite/apis.yaml"
+		},
+		{
+			"name": "7digital",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/7digital/apis.yaml"
+		},
+		{
+			"name": "ConvertAPI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/convertapi/apis.yaml"
+		},
+		{
+			"name": "EzineArticles",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/ezinearticles/apis.yaml"
+		},
+		{
+			"name": "Feedbooks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/feedbooks/apis.yaml"
+		},
+		{
+			"name": "Gigulate",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/gigulate/apis.yaml"
+		},
+		{
+			"name": "Goodreads",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/goodreads/apis.yaml"
+		},
+		{
+			"name": "Issuu",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/issuu/apis.yaml"
+		},
+		{
+			"name": "VideoBloom",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/videobloom/apis.yaml"
+		},
+		{
+			"name": "Yelp",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/yelp/apis.yaml"
+		},
+		{
+			"name": "EveryBlock",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/everyblock/apis.yaml"
+		},
+		{
+			"name": "SFGATE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/sfgate/apis.yaml"
+		},
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "Cambridge",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/cambridge/apis.yaml"
+		},
+		{
+			"name": "Instructure",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/instructure/apis.yaml"
+		},
+		{
+			"name": "SAMHSA",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/samhsa/apis.yaml"
+		},
+		{
+			"name": "ScienceBase",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/sciencebase/apis.yaml"
+		},
+		{
+			"name": "SharedBook",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/sharedbook/apis.yaml"
+		},
+		{
+			"name": "Weather Underground",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/weather-underground/apis.yaml"
+		},
+		{
+			"name": "CityGrid Media",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/citygrid-media/apis.yaml"
+		},
+		{
+			"name": "Getty Images",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/getty-images/apis.yaml"
+		},
+		{
+			"name": "MyGarden.org",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/mygarden-org/apis.yaml"
+		},
+		{
+			"name": "TIME",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/time/apis.yaml"
+		},
+		{
+			"name": "HostBill",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/hostbill/apis.yaml"
+		},
+		{
+			"name": "Pocket",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/pocket/apis.yaml"
+		},
+		{
+			"name": "pontiflex",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/pontiflex/apis.yaml"
+		},
+		{
+			"name": "OverDrive Libraries",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/overdrive-libraries/apis.yaml"
+		},
+		{
+			"name": "Regator",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/regator/apis.yaml"
+		},
+		{
+			"name": "Washington Post White House Visitors",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/washington-post-white-house-visitors/apis.yaml"
+		},
+		{
+			"name": "ProPublica",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/propublica/apis.yaml"
+		},
+		{
+			"name": "Punkrock.org",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/punkrock-org/apis.yaml"
+		},
+		{
+			"name": "TheBeerSpot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/thebeerspot/apis.yaml"
+		},
+		{
+			"name": "Tout",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/tout/apis.yaml"
+		},
+		{
+			"name": "Gracenote",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/gracenote/apis.yaml"
+		},
+		{
+			"name": "Instapaper",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/instapaper/apis.yaml"
+		},
+		{
+			"name": "Public Insight Network",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/public-insight-network/apis.yaml"
+		},
+		{
+			"name": "Elsevier ScienceDirect",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/elsevier-sciencedirect/apis.yaml"
+		},
+		{
+			"name": "TV Media TV Listings",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/tv-media-tv-listings/apis.yaml"
+		},
+		{
+			"name": "Cloudspeakers",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/cloudspeakers/apis.yaml"
+		},
+		{
+			"name": "Business Insider",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/business-insider/apis.yaml"
+		},
+		{
+			"name": "Digital First Media",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/digital-first-media/apis.yaml"
+		},
+		{
+			"name": "Disney Post",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/disney-post/apis.yaml"
+		},
+		{
+			"name": "Bookshare API",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/bookshare-api/apis.yaml"
+		},
+		{
+			"name": "Hearst",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/hearst/apis.yaml"
+		},
+		{
+			"name": "NewsWhip",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/newswhip/apis.yaml"
+		},
+		{
+			"name": "IBM Watson",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/ibm-watson/apis.yaml"
+		},
+		{
+			"name": "Bitcoin Magazine",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/bitcoin-magazine/apis.yaml"
+		},
+		{
+			"name": "First Look Media",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/first-look-media/apis.yaml"
+		},
+		{
+			"name": "Houghton Mifflin Harcourt",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/houghton-mifflin-harcourt/apis.yaml"
+		},
+		{
+			"name": "The New York Times",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/the-new-york-times/apis.yaml"
+		},
+		{
+			"name": "Bloomberg",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/bloomberg/apis.yaml"
+		},
+		{
+			"name": "HarperCollins Publishers",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/harpercollins-publishers/apis.yaml"
+		},
+		{
+			"name": "The Hill",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/the-hill/apis.yaml"
+		},
+		{
+			"name": "The Economist",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/the-economist/apis.yaml"
+		},
+		{
+			"name": "Thomson Reuters",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/thomson-reuters/apis.yaml"
+		},
+		{
+			"name": "engadget.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/engadget-com/apis.yaml"
+		},
+		{
+			"name": "Gizmodo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/gizmodo/apis.yaml"
+		},
+		{
+			"name": "sitepoint.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/sitepoint-com/apis.yaml"
+		},
+		{
+			"name": "mashable.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/mashable-com/apis.yaml"
+		},
+		{
+			"name": "JAXenter.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/jaxenter-com/apis.yaml"
+		},
+		{
+			"name": "Barchart",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/barchart/apis.yaml"
+		},
+		{
+			"name": "AWS CloudWatch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/aws-cloudwatch/apis.yaml"
+		},
+		{
+			"name": "AWS Lambda",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/aws-lambda/apis.yaml"
+		},
+		{
+			"name": "AWS Cognito",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/aws-cognito/apis.yaml"
+		},
+		{
+			"name": "AWS Simple Notification Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/aws-simple-notification-service/apis.yaml"
+		},
+		{
+			"name": "Google Tag Manager",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/google-tag-manager/apis.yaml"
+		},
+		{
+			"name": "Azure Automation",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/azure-automation/apis.yaml"
+		},
+		{
+			"name": "News API",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/news-api/apis.yaml"
+		},
+		{
+			"name": "Dataminr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/dataminr/apis.yaml"
+		},
+		{
+			"name": "AccuWeather",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/accuweather/apis.yaml"
+		},
+		{
+			"name": "Financial Times",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/financial-times/apis.yaml"
+		},
+		{
+			"name": "GlobeNewswire",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/globenewswire/apis.yaml"
+		},
+		{
+			"name": "TheStreet",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/thestreet/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "TechAcute",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/techacute/apis.yaml"
+		},
+		{
+			"name": "Technowize",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/technowize/apis.yaml"
+		},
+		{
+			"name": "CNET",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/cnet/apis.yaml"
+		},
+		{
+			"name": "TLISTS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/tlists/apis.yaml"
+		},
+		{
+			"name": "https://www.techwalls.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/httpswww-techwalls-com/apis.yaml"
+		},
+		{
+			"name": "TechAtLast",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/techatlast/apis.yaml"
+		},
+		{
+			"name": "TechTricksWorld",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/techtricksworld/apis.yaml"
+		},
+		{
+			"name": "Inspirationfeed",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/inspirationfeed/apis.yaml"
+		},
+		{
+			"name": "TechSling",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/techsling/apis.yaml"
+		},
+		{
+			"name": "Techatitude",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/techatitude/apis.yaml"
+		},
+		{
+			"name": "Entertainment Express",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/entertainment-express/apis.yaml"
+		},
+		{
+			"name": "Rite Kit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/rite-kit/apis.yaml"
+		},
+		{
+			"name": "BBC",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/bbc/apis.yaml"
+		},
+		{
+			"name": "Cision",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/cision/apis.yaml"
+		},
+		{
+			"name": "eReleases",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/ereleases/apis.yaml"
+		},
+		{
+			"name": "MarketWatch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/marketwatch/apis.yaml"
+		},
+		{
+			"name": "Issuu",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/issuu/apis.yaml"
+		},
+		{
+			"name": "Akeneo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/apis.yaml"
+		},
+		{
+			"name": "Kentico Cloud",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/kentico-cloud/apis.yaml"
+		}
+	]
+}

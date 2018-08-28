@@ -12,11 +12,137 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "164081"
 tags: Publish
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Official Akeneo PIM API - published product (2.x and EE only)
+  x-api-slug: restv1publishedproducts13527420-get
+  description: Assuming that the given identifier is the identifier of an existing
+    product that is currently published
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/restv1publishedproducts13527420-get-openapi.md
+- name: Official Akeneo PIM API - published products (2.x and EE only)
+  x-api-slug: restv1publishedproducts-get
+  description: Published products (2.x and ee only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/restv1publishedproducts-get-openapi.md
+- name: Official Akeneo PIM API - published product (2.x and EE only)
+  x-api-slug: restv1publishedproducts13527420-get
+  description: Assuming that the given identifier is the identifier of an existing
+    product that is currently published
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/restv1publishedproducts13527420-get-openapi.md
+- name: Official Akeneo PIM API - published products (2.x and EE only)
+  x-api-slug: restv1publishedproducts-get
+  description: Published products (2.x and ee only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/restv1publishedproducts-get-openapi.md
+- name: Official Akeneo PIM API - published products (2.x and EE only)
+  x-api-slug: restv1publishedproducts-get
+  description: Published products (2.x and ee only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/restv1publishedproducts-get-openapi.md
+- name: Official Akeneo PIM API - published products (2.x and EE only)
+  x-api-slug: restv1publishedproducts-get
+  description: Published products (2.x and ee only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/restv1publishedproducts-get-openapi.md
+- name: Official Akeneo PIM API - published products (2.x and EE only)
+  x-api-slug: restv1publishedproducts-get
+  description: Published products (2.x and ee only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/restv1publishedproducts-get-openapi.md
+- name: Official Akeneo PIM API - published products (2.x and EE only)
+  x-api-slug: restv1publishedproducts-get
+  description: Published products (2.x and ee only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/restv1publishedproducts-get-openapi.md
+- name: Official Akeneo PIM API - published product (2.x and EE only)
+  x-api-slug: restv1publishedproducts13527420-get
+  description: Assuming that the given identifier is the identifier of an existing
+    product that is currently published
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/restv1publishedproducts13527420-get-openapi.md
+- name: Official Akeneo PIM API - published product (2.x and EE only)
+  x-api-slug: restv1publishedproducts13527420-get
+  description: Assuming that the given identifier is the identifier of an existing
+    product that is currently published
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/restv1publishedproducts13527420-get-openapi.md
+- name: Official Akeneo PIM API - published product (2.x and EE only)
+  x-api-slug: restv1publishedproducts13527420-get
+  description: Assuming that the given identifier is the identifier of an existing
+    product that is currently published
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/restv1publishedproducts13527420-get-openapi.md
+- name: Official Akeneo PIM API - published product (2.x and EE only)
+  x-api-slug: restv1publishedproducts13527420-get
+  description: Assuming that the given identifier is the identifier of an existing
+    product that is currently published
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/publish/master/_listings/akeneo/restv1publishedproducts13527420-get-openapi.md
 x-common:
 - type: x-blog-rss
   url: https://www.akeneo.com/feed/
